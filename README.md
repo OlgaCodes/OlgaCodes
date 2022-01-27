@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Olga Mechecka and I am aspiring, young java programmer. 
-- 👀 I’m interested in java language, that is creating web applications and sometimes mobile apps for android. 
-  I am still broading my knowledge about maven projects and want to become a professional developer one day.
-- 🌱 I’m currently learning java Spring Framework, Hibernate and tomcat server. 
+- 👋 Hi, I’m Olga Mechecka and I am aspiring young java programmer. 
+- 👀 I’m interested in java language, creating web applications and the whole backend process.
+  I am still broading my knowledge in the scope of technologies and want to become a professional developer one day.
+- 🌱 I’m currently learning Java Spring Framework, Spring Security, Tests with Spock and Groovy, Hibernate.
 
